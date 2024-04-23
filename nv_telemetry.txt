@@ -1,0 +1,16 @@
+gfswl.geforce.com
+telemetry.nvidia.com
+gfe.nvidia.com
+telemetry-dce.gfe.nvidia.com
+events-dc1.gfe.nvidia.com
+activation.gfe.nvidia.com
+activation-dc1.gfe.nvidia.com
+telemetry.gfe.nvidia.com
+events.gfe.nvidia.com
+telemetry-dc1.gfe.nvidia.com
+telemetry.gfe
+hqemgate07.nvidia.com
+hqemgate08.nvidia.com
+hqemgate09.nvidia.com
+hqemgate10.nvidia.com
+nvidiahk.nvidia.com
